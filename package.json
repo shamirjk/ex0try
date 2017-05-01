@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shamirjk/ex0try/issues"
   },
-  "homepage": "https://github.com/shamirjk/ex0try#readme"
+  "homepage": "https://github.com/shamirjk/ex0try#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
