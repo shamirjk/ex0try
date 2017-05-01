@@ -1,6 +1,10 @@
 {
   "name": "ex0try",
   "version": "1.0.0",
+  "engines": {
+    "node": "7.9.0",
+    "npm": "4.2.0"
+  },
   "description": "try",
   "main": "index.js",
   "scripts": {
